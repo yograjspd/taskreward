@@ -1,0 +1,12 @@
+sposor id
+username
+email
+mobile
+password
+state city
+user_type
+
+
+sponsor_id is  refer is  and user_id  generated 10 charcter id
+ login from generated id and password
+  when signup then show in popbox user id and password 
